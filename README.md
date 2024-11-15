@@ -1,0 +1,1 @@
+# AMOS-Abdominal-multi-organ-segmentation-from-CT-MRI-scans-using-Deep-learning-Model
